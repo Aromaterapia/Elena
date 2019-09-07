@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Nikolay",
+    "name": "Elena",
     "currentPage": "Elena.html",
     "theme": {
       "name": "mobirise-amp",
@@ -34,10 +34,7 @@
     "siteFonts": [],
     "uniqCompNum": 4,
     "versionPublish": "4.10.8",
-    "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/s1200-128x128-1.png",
-    "noImageResize": "",
-    "сanonical-url": ""
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "Elena.html": {
